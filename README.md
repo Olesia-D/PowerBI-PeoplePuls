@@ -8,31 +8,31 @@ As part of a freelance collaboration, I conducted an in-depth HR analytics proje
 
 ├── Dataset:
 
-│ ├── Employee.csv
+ ├── Employee.csv
 
-│ ├── EducationLevel.csv
+ ├── EducationLevel.csv
 
-│ ├── PerformanceRating.csv
+ ├── PerformanceRating.csv
 
-│ ├── RatingLevel.csv
+ ├── RatingLevel.csv
 
-│ └── SatisfiedLevel.csv
-│
+ └── SatisfiedLevel.csv
+
 ├── Visualizations:
 
-│ ├── Attrition.png
+ ├── Attrition.png
 
-│ ├── Demographics.png
+ ├── Demographics.png
 
-│ ├── Overview.png
+ ├── Overview.png
 
-│ ├── Performance Tracker.png
+ ├── Performance Tracker.png
 
-│ └── PerformanceRating.png
+ └── PerformanceRating.png
 
 ├── Reports:
 
-│ └── TechCompany HR Analysis.pbix
+ └── TechCompany HR Analysis.pbix
 
 └── README.md
 
