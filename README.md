@@ -42,7 +42,7 @@ The fact table content 1470 rows.
 
 During the data preparation phase, I reviewed and adjusted the data types for all columns to ensure consistency and accuracy. I created a dedicated Measures table to organize all calculated measures used in the visualizations. Additionally, I established the necessary relationships between the tables to enable proper interaction across the report.
 
-THe report is in repository. ![Report](TechCompany HR Analysis.pbix)
+#### The report is in repository. 
 
 ### Visualization Overview.
 ![Overview](Overview.png)
