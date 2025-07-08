@@ -29,11 +29,11 @@ As part of a freelance collaboration, I conducted an in-depth HR analytics proje
 │ ├── Performance Tracker.png
 
 │ └── PerformanceRating.png
-│
+
 ├── Reports:
 
 │ └── TechCompany HR Analysis.pbix
-│
+
 └── README.md
 
 The initial dataset contains 5 tables: 1 fact table ("PerformanceRating") and 4 dimension tables ("EdducationLevel", "Employee", "RatingLevel", "SatisfiedLevel"). 
