@@ -7,20 +7,31 @@ As part of a freelance collaboration, I conducted an in-depth HR analytics proje
 ## Repository structure
 
 ├── Dataset:
+
 │ ├── Employee.csv
+
 │ ├── EducationLevel.csv
+
 │ ├── PerformanceRating.csv
+
 │ ├── RatingLevel.csv
+
 │ └── SatisfiedLevel.csv
 │
 ├── Visualizations:
+
 │ ├── Attrition.png
+
 │ ├── Demographics.png
+
 │ ├── Overview.png
+
 │ ├── Performance Tracker.png
+
 │ └── PerformanceRating.png
 │
 ├── Reports:
+
 │ └── TechCompany HR Analysis.pbix
 │
 └── README.md
