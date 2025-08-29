@@ -1,4 +1,6 @@
 # PowerBI-PeoplePuls
+![HR Analysis Demo](https://github.com/Olesia-D/PowerBI-PeoplePuls/blob/main/HR%20Analysis%20Demo.gif)
+
 The project for HR-department completed in PowerBI
 
 PeoplePulse (name changed) is a mid-sized U.S.-based software technology company. The company builds enterprise software solutions for clients across various industries, with a strong focus on innovation, agile development, and user-centric design.
